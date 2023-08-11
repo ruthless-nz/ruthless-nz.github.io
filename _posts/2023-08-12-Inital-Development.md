@@ -1,10 +1,10 @@
 ---
-title: "Inital-Development"
-date: 2023-08-12
+layout: post
+title:  "Welcome to Jekyll!"
 ---
 
-oh woweee
+# Welcome
 
-how good
+**Hello world**, this is my first Jekyll blog post.
 
-Anna I love you
+I hope you like it!

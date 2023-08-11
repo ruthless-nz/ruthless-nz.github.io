@@ -1,10 +1,11 @@
 ---
 title: Welcome to my blog
-
-Its about Nebulous Fleet Command Analysis
-
-And the Julia Programming Language
-
-yea cool thanks
 ---
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
