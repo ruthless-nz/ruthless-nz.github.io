@@ -9,4 +9,4 @@ title:  "Welcome to Jekyll?"
 
 I hope you like it!
 
-![Keystone Point Viability](/assets/pointEffectivness/Keystone_Destroyer.png)
+![Keystone Point Viability](/assets/pointEffectiveness/Keystone_Destroyer.png)
