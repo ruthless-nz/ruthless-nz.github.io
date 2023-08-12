@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "yea go on"
-categories: Nebulous Data
 ---
 
 # Welcome
