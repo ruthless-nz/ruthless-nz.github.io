@@ -12,4 +12,4 @@ I hope you like it!
 
 Lets try put a picture in there. 
 
-![Keystone Point Viability](/assets/pointEffectivness/Keystone_Destroyer.jpg)
+![Keystone Point Viability](/assets/pointEffectivness/Keystone_Destroyer.png)
